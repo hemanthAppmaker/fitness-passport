@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Fitness Passport",
+    "slug": "fitness-passport",
+    "scheme": "fitnesspassport",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-asset",
+      "expo-font"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.example.fitnesspassport"
+    },
+    "android": {
+      "package": "com.example.fitnesspassport"
+    }
+  }
+}
